@@ -1,7 +1,6 @@
-h1 {
-    color: yellow;
-}
+$theme-colors: (
+    bgcolor: #a9ccec,
 
-body {
-    background-color: aqua;
-}
+);
+
+@import "node_modules/bootstrap/scss/bootstrap.scss";

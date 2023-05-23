@@ -62,7 +62,7 @@
   --bs-body-bg-rgb: 255, 255, 255;
   --bs-font-sans-serif: 'Quicksand', sans-serif;;
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --bs-gradient: linear-gradient(180deg, #30386f, #df97be);
+  --bs-gradient: linear-gradient(180deg, #33419a, #df97be);
   --bs-body-font-family: var(--bs-font-sans-serif);
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;

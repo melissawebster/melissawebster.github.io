@@ -17,10 +17,21 @@
   margin: 5px;
 }
 
+.icon-sm {
+  display: inline;
+  height: 25px;
+  margin-right: 5px;
+}
 
+.profile {
+  width: 275px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
 
-
-
+.project-thumb {
+  border: 1px solid #ffffff;
+}
 
 :root {
   --bs-blue: #0d6efd;
@@ -650,11 +661,8 @@ progress {
   --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
   width: 85%;
-  padding-right: calc(var(--bs-gutter-x) * 0.5);
-  padding-left: calc(var(--bs-gutter-x) * 0.5);
   margin-right: auto;
   margin-left: auto;
-  background-color: #171717;
 }
 
 .container-description {
@@ -672,11 +680,9 @@ progress {
   --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
   width: 85%;
-  padding-right: calc(var(--bs-gutter-x) * 0.5);
-  padding-left: calc(var(--bs-gutter-x) * 0.5);
   margin-right: auto;
   margin-left: auto;
-  background-color: #151515bc;
+
 }
 
 .container-footer {
@@ -688,7 +694,6 @@ progress {
   margin-right: auto;
   margin-left: auto;
   background-color: #191002e5;
-  z-index: 3;
 }
 
 @media (min-width: 576px) {
